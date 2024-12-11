@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cat60vdv3o62n"
+path="res://.godot/imported/star platinum the world.mp3-fb5201cff993a87c2153355694cc87e3.mp3str"
+
+[deps]
+
+source_file="res://audio/star platinum the world.mp3"
+dest_files=["res://.godot/imported/star platinum the world.mp3-fb5201cff993a87c2153355694cc87e3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
